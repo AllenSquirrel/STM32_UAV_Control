@@ -1,0 +1,15 @@
+--cpu Cortex-M3
+".\startup_stm32f10x_hd.o"
+".\misc.o"
+".\stm32f10x_gpio.o"
+".\stm32f10x_rcc.o"
+".\stm32f10x_tim.o"
+".\main.o"
+".\stm32f10x_it.o"
+".\system_stm32f10x.o"
+".\key.o"
+".\pwm.o"
+--strict --scatter ".\project.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\project.map" -o .\project.axf

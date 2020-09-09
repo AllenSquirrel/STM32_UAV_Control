@@ -1,0 +1,13 @@
+.\key.o: ..\HARDWARE\key\key.c
+.\key.o: ..\HARDWARE\key\key.h
+.\key.o: D:\keil4\ARM\Inc\ST\STM32F10x\stm32f10x.h
+.\key.o: D:\keil4\ARM\CMSIS\Include\core_cm3.h
+.\key.o: D:\keil4\ARM\ARMCC\bin\..\include\stdint.h
+.\key.o: D:\keil4\ARM\CMSIS\Include\core_cmInstr.h
+.\key.o: D:\keil4\ARM\CMSIS\Include\core_cmFunc.h
+.\key.o: D:\keil4\ARM\Inc\ST\STM32F10x\system_stm32f10x.h
+.\key.o: ..\USER\stm32f10x_conf.h
+.\key.o: ..\STDDRIVER\INC\stm32f10x_gpio.h
+.\key.o: D:\keil4\ARM\Inc\ST\STM32F10x\stm32f10x.h
+.\key.o: ..\STDDRIVER\INC\stm32f10x_rcc.h
+.\key.o: ..\STDDRIVER\INC\stm32f10x_tim.h

@@ -1,0 +1,13 @@
+.\pwm.o: ..\HARDWARE\beep_pwm\pwm.c
+.\pwm.o: ..\HARDWARE\beep_pwm\pwm.h
+.\pwm.o: D:\keil4\ARM\Inc\ST\STM32F10x\stm32f10x.h
+.\pwm.o: D:\keil4\ARM\CMSIS\Include\core_cm3.h
+.\pwm.o: D:\keil4\ARM\ARMCC\bin\..\include\stdint.h
+.\pwm.o: D:\keil4\ARM\CMSIS\Include\core_cmInstr.h
+.\pwm.o: D:\keil4\ARM\CMSIS\Include\core_cmFunc.h
+.\pwm.o: D:\keil4\ARM\Inc\ST\STM32F10x\system_stm32f10x.h
+.\pwm.o: ..\USER\stm32f10x_conf.h
+.\pwm.o: ..\STDDRIVER\INC\stm32f10x_gpio.h
+.\pwm.o: D:\keil4\ARM\Inc\ST\STM32F10x\stm32f10x.h
+.\pwm.o: ..\STDDRIVER\INC\stm32f10x_rcc.h
+.\pwm.o: ..\STDDRIVER\INC\stm32f10x_tim.h
